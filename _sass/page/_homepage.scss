@@ -1,0 +1,10 @@
+/* dependency: mixins */
+
+.homepage {
+  text-align: left;
+  margin-top: 4.375rem;
+
+  @include breakpoint(medium) {
+    margin-top: 8rem;
+  }
+}

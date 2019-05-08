@@ -1,0 +1,35 @@
+---
+permalink: /404.html
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Page not found</title>
+
+  {% include head.html %}
+
+  <link rel="stylesheet" href="{{ 'assets/css/404.css' | relative_url }}" media="all">
+
+</head>
+<body>
+
+  <main class="pnf-wrapper">
+
+    <section class="tangram">
+      <img src="assets/img/avatar.png" />
+    </section>
+
+    <section class="description">
+      <p>Oops, this page doesn't exist. Go <a href="{{ '/' | relative_url }}">somewhere</a> else? :)</p>
+    </section>
+
+    {% include footer.html %}
+
+  </main>
+
+</body>
+</html>
