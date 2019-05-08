@@ -15,10 +15,9 @@ github: [soko1](https://github.com/soko1)<br>
 facebook: [sysctl](https://facebook.com/sysctl)<br>
 instagram: [gnupg](https://instagram.com/gnupg)<br>
 
+### my projects
 
-### blog
-
-[cryptopunks.org](https://cryptopunks.org)
+See <a href="/projects">my projects</a> page
 
 ### contacts
 
