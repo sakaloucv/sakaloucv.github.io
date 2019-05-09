@@ -22,7 +22,7 @@ layout: page
 
 ### a browser extension
 
-[zen noise](https://chrome.google.com/webstore/detail/zen-noise/gglenjeeebfkpaocofnmbpcaafihhgpo)
+[zen noise](https://chrome.google.com/webstore/detail/zen-noise/gglenjeeebfkpaocofnmbpcaafihhgpo) ([source code](https://github.com/zennoise/zennoise-chromium))
 
 ### sites
 
