@@ -20,7 +20,7 @@ layout: page
 [@chaluskincaustreets](https://t.me/chaluskincaustreets)
 
 
-### a browser extensions
+### a browser extension
 
 ...
 
