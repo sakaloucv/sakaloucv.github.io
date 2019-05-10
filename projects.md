@@ -6,9 +6,11 @@ layout: page
 
 ### telegram bots 
 
-[@catzcatzcatzbot](https://t.me/catzcatzcatzbot) && [@dogzdogzdogzbot](https://t.me/dogzdogzdogzbot) ([source code](https://github.com/soko1/catzcatzcatzbot))<br>
-[@pronouncewordbot](https://t.me/pronouncewordbot) ([source code](https://github.com/soko1/pronouncewordbot))<br>
-[@beganbegunbot](https://t.me/beganbegunbot) <br>
+[@catzcatzcatzbot](https://t.me/catzcatzcatzbot) && [@dogzdogzdogzbot](https://t.me/dogzdogzdogzbot) ([source code](https://github.com/soko1/catzcatzcatzbot))
+
+[@pronouncewordbot](https://t.me/pronouncewordbot) ([source code](https://github.com/soko1/pronouncewordbot))
+
+[@beganbegunbot](https://t.me/beganbegunbot)
 
 ### telegram channels
 
