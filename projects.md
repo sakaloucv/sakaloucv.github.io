@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## My projects 
+## Portfolio 
 
 ### telegram bots 
 
