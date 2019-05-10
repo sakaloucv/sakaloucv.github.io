@@ -4,14 +4,13 @@ layout: page
 
 ## My projects 
 
-
 ### telegram bots 
 
 [@catzcatzcatzbot](https://t.me/catzcatzcatzbot) && [@dogzdogzdogzbot](https://t.me/dogzdogzdogzbot) ([source code](https://github.com/soko1/catzcatzcatzbot))<br>
 [@pronouncewordbot](https://t.me/pronouncewordbot) ([source code](https://github.com/soko1/pronouncewordbot))<br>
 [@beganbegunbot](https://t.me/beganbegunbot) <br>
 
-### telegram channel
+### telegram channels
 
 [@technomusicchannel](https://t.me/technomusicchannel) 
 
