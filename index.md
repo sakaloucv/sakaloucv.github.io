@@ -7,5 +7,5 @@ layout: page
 
 ### CV
 
-My CV: <a href="/sakalou_aliaksei.pdf">sakalou_aliaksei.pdf</a>
+My CV: <a href="/sakalou_aliaksei.pdf">sakalou_aliaksei.pdf</a> (RU)
 
