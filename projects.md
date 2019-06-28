@@ -10,7 +10,7 @@ layout: page
 
 [@pronouncewordbot](https://t.me/pronouncewordbot) ([source code](https://github.com/soko1/pronouncewordbot))
 
-[@beganbegunbot](https://t.me/beganbegunbot)
+[@beganbegunbot](https://t.me/beganbegunbot) ([source code](https://github.com/soko1/beganbegunbot))
 
 [@getthistrack](https://t.me/getthistrack)
 
