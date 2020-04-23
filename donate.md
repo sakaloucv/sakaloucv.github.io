@@ -25,6 +25,10 @@ WMZ: `Z156396869707`<br>
 WMR: `R409106892241`<br>
 WME: `E320058433666`<br>
 
+### Yandex Money (RUB)
+
+`410013018573049`
+
 ### other currency?
 
 Please <a href="mailto:nullbsd@gmail.com">let me know</a> in which currency it is convenient for you to make a donation.
