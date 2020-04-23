@@ -25,9 +25,6 @@ WMZ: `Z156396869707`<br>
 WMR: `R409106892241`<br>
 WME: `E320058433666`<br>
 
-### Yandex Money (RUB)
-
-`410013018573049`
 
 ### other currency?
 
