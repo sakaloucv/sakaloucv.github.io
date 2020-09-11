@@ -18,11 +18,6 @@ layout: page
 
 [@technomusicchannel](https://t.me/technomusicchannel) 
 
-### telegram chats
-
-[@chaluskincaustreets](https://t.me/chaluskincaustreets)
-
-
 ### a browser extension
 
 [zen noise](https://chrome.google.com/webstore/detail/zen-noise/gglenjeeebfkpaocofnmbpcaafihhgpo) ([source code](https://github.com/zennoise/zennoise-chromium))
