@@ -26,7 +26,7 @@ layout: page
 
 [cryptopunks.org](https://cryptopunks.org)
 
-[wiki.decart.xyz](https://wiki.decart.xyz)
+[decartxyz.github.io](https://decartxyz.github.io)
 
 
 ###  OS distribution
