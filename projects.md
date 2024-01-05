@@ -32,8 +32,3 @@ layout: page
 [TrueBSD](https://distrowatch.com/table.php?distribution=truebsd) - LiveCD distribution with freebsd (Creator and developer)
 
 
-### petitions
-
-[https://petitions.by/petitions/1842](https://petitions.by/petitions/1842)
-
-[https://petitions.by/petitions/1498](https://petitions.by/petitions/1498)
