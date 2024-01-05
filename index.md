@@ -7,5 +7,5 @@ layout: page
 
 ### CV
 
-My linkedin profile: https://www.linkedin.com/in/sakalou/
+[My linkedin profile](https://www.linkedin.com/in/sakalou/)
 
