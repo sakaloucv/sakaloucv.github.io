@@ -7,5 +7,5 @@ layout: page
 
 ### CV
 
-My CV: <a href="/sakalou_aliaksei.pdf">sakalou_aliaksei.pdf</a> (RU)
+My linkedin profile: https://www.linkedin.com/in/sakalou/
 

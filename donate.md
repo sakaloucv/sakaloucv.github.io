@@ -20,6 +20,10 @@ You can thank me, for example, a cup of coffee :)
 #### monero
 <a href="monero:4Ar1sEcrepNfKGMxEwRCpRgePcLuezVJeBgSQTUxArBhZwYWJogiLLGP1qZXioKzz4DSiSGMv2iJ2VqD4Bj78oHJEgrUSPX">4Ar1sEcrepNfKGMxEwRCpRgePcLuezVJeBgSQTUxArBhZwYWJogiLLGP1qZXioKzz4DSiSGMv2iJ2VqD4Bj78oHJEgrUSPX</a>
 
+#### tbc bank 
+
+IBAN: GE47TB7765045068100010 (Aliaksei Sakalou, swift: TBCBGE22, Georgia)
+
 
 ### other currency?
 

@@ -2,11 +2,13 @@
 layout: page
 ---
 
-## Portfolio 
+## portfolio 
+
+## channels tracking air cleanliness in cities
+
+[Tbilisi, can I run?](https://canirun.github.io/)
 
 ### telegram bots 
-
-[@catzcatzcatzbot](https://t.me/catzcatzcatzbot) && [@dogzdogzdogzbot](https://t.me/dogzdogzdogzbot) ([source code](https://github.com/soko1/catzcatzcatzbot))
 
 [@pronouncewordbot](https://t.me/pronouncewordbot) ([source code](https://github.com/soko1/pronouncewordbot))
 
@@ -14,29 +16,24 @@ layout: page
 
 [@getthistrack](https://t.me/getthistrack)
 
+[@catzcatzcatzbot](https://t.me/catzcatzcatzbot) && [@dogzdogzdogzbot](https://t.me/dogzdogzdogzbot) ([source code](https://github.com/soko1/catzcatzcatzbot))
+
 ### telegram channels
 
 [@technomusicchannel](https://t.me/technomusicchannel) 
 
 ### a browser extension
 
-[zen noise](https://chrome.google.com/webstore/detail/zen-noise/gglenjeeebfkpaocofnmbpcaafihhgpo) ([source code](https://github.com/zennoise/zennoise-chromium))
+[zen noise](https://zennoise.github.io/))
 
 ### sites
 
-[cryptopunks.org](https://cryptopunks.org)
-
-[decartxyz.github.io](https://decartxyz.github.io)
+Creator and author of all articles on the site about computer security: [cryptopunks.org](https://cryptopunks.org)
 
 
-###  OS distribution
+###  os distribution
 
-[truebsd](https://truebsd.pw)
-
-
-### infographics
-
-[minsk-transport](https://ideaby.org/minsk-transport/)
+Creator of the Trubsd distribution: [truebsd](https://distrowatch.com/table.php?distribution=truebsd) (unfortunately the offsite no longer works)
 
 
 ### petitions
