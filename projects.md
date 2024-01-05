@@ -4,7 +4,7 @@ layout: page
 
 ## portfolio 
 
-## channels tracking air cleanliness in cities
+### channels tracking air cleanliness in cities
 
 [Tbilisi, can I run?](https://canirun.github.io/)
 
@@ -24,7 +24,7 @@ layout: page
 
 ### a browser extension
 
-[zen noise](https://zennoise.github.io/))
+[zen noise](https://zennoise.github.io/)
 
 ### sites
 
@@ -33,7 +33,7 @@ Creator and author of all articles on the site about computer security: [cryptop
 
 ###  os distribution
 
-Creator of the Trubsd distribution: [truebsd](https://distrowatch.com/table.php?distribution=truebsd) (unfortunately the offsite no longer works)
+Creator of the Trubsd distribution: [TrueBSD](https://distrowatch.com/table.php?distribution=truebsd) (unfortunately the offsite no longer works)
 
 
 ### petitions
