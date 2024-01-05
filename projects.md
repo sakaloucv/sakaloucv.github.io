@@ -4,9 +4,10 @@ layout: page
 
 ## portfolio 
 
-### channels tracking air cleanliness in cities
+### sites & services
 
-[Tbilisi, can I run?](https://canirun.github.io/)
+[cryptopunks.org](https://cryptopunks.org) - Creator and author of all articles on the site about computer security
+[Tbilisi, can I run?](https://canirun.github.io/) - service for monitoring air purity in cities
 
 ### telegram bots 
 
@@ -26,14 +27,10 @@ layout: page
 
 [zen noise](https://zennoise.github.io/)
 
-### sites
-
-Creator and author of all articles on the site about computer security: [cryptopunks.org](https://cryptopunks.org)
-
 
 ###  os distribution
 
-Creator of the Trubsd distribution: [TrueBSD](https://distrowatch.com/table.php?distribution=truebsd) (unfortunately the offsite no longer works)
+[TrueBSD](https://distrowatch.com/table.php?distribution=truebsd) - Creator of the TruBSD distribution (unfortunately the offsite no longer works)
 
 
 ### petitions
