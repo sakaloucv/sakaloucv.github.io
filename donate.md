@@ -6,6 +6,8 @@ layout: page
 
 You can thank me, for example, a cup of coffee :)
 
+#### ton (telegram)
+`UQDbb89zFXw8sDo5lH0RaF2XABohuYq5eusEPtV-hJs5s-ki`
 
 #### bitcoin
 <a href="bitcoin:bc1qwcx5949t3ly3z8qxtu42rny05xwmughm0s34f3" target="_blank">bc1qwcx5949t3ly3z8qxtu42rny05xwmughm0s34f3</a>
